@@ -1,4 +1,4 @@
-# pythonprojeto
+# geradorsenha
 
 # Gerador de Senhas Aleatórias
 
